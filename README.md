@@ -1,46 +1,31 @@
-# portfolio-project
-##  Introduction
-Hi, my name is Pranisha. I am a fresher with experience as an Operations Advisor at Concentrix. This project demonstrates my ability to learn new tools, follow instructions, and document my work.
+# Portfolio Project - Pranisha Aneesh Kumar
 
----
+##  About Me
+I am a BBA graduate and a motivated fresher with experience at Concentrix. I am passionate about marketing and growth, and I am currently learning basic web development to build my portfolio.
 
-##  Tools Installed
+##  Tools Used
+- GitHub
 - Cursor IDE
+- HTML & CSS
 - Claude Code Extension
 - Codex Extension
-- GitHub
 
----
+##  What I Did
+- Created a simple personal portfolio website using HTML and CSS
+- Added sections like About Me, Skills, and Contact
+- Styled the page using basic CSS (colors, alignment, layout)
+- Uploaded the project to GitHub
+- Deployed the portfolio using GitHub Pages
 
-##  Steps I Completed
-1. Installed Cursor IDE
-2. Added Claude Code and Codex extensions
-3. Created a public GitHub repository
-4. Connected GitHub with Cursor
-5. Created and updated this README file
-6. Committed and pushed changes to GitHub
+##  Challenges Faced
+- I had no prior coding experience
+- Faced confusion while writing HTML and CSS
+- Was unsure how to publish the website using GitHub
 
----
+##  How I Solved Them 
+- Followed step-by-step guidancegʻ
+- Practiced copy-pasting and understanding code
+- Used online resources and tutorials to learn basics
 
-##  Challenges I Faced
-- Initially unfamiliar with Cursor IDE
-- Understanding GitHub setup and integration
-
----
-
-##  How I Solved Them
-- Followed online tutorials and documentation
-- Explored tools step-by-step
-- Practiced until successful
-
----
-
-##  What I Learned
-- Basic GitHub workflow (repository, commit, push)
-- Installing and using developer tools
-- Importance of documentation
-
----
-
-## 🎯 Conclusion
-This project helped me improve my learning ability and adaptability. I am confident in quickly learning and applying new tools.
+## 🚀 Live Project
+[Click here to view my portfolio](https://github.com/pranishaak19-del/portfolio-project)
