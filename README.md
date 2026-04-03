@@ -1,10 +1,10 @@
 # portfolio-project
-## 👩‍💻 Introduction
+##  Introduction
 Hi, my name is Pranisha. I am a fresher with experience as an Operations Advisor at Concentrix. This project demonstrates my ability to learn new tools, follow instructions, and document my work.
 
 ---
 
-## 🛠️ Tools Installed
+##  Tools Installed
 - Cursor IDE
 - Claude Code Extension
 - Codex Extension
@@ -12,7 +12,7 @@ Hi, my name is Pranisha. I am a fresher with experience as an Operations Advisor
 
 ---
 
-## 📌 Steps I Completed
+##  Steps I Completed
 1. Installed Cursor IDE
 2. Added Claude Code and Codex extensions
 3. Created a public GitHub repository
@@ -22,20 +22,20 @@ Hi, my name is Pranisha. I am a fresher with experience as an Operations Advisor
 
 ---
 
-## ⚠️ Challenges I Faced
+##  Challenges I Faced
 - Initially unfamiliar with Cursor IDE
 - Understanding GitHub setup and integration
 
 ---
 
-## ✅ How I Solved Them
+##  How I Solved Them
 - Followed online tutorials and documentation
 - Explored tools step-by-step
 - Practiced until successful
 
 ---
 
-## 📈 What I Learned
+##  What I Learned
 - Basic GitHub workflow (repository, commit, push)
 - Installing and using developer tools
 - Importance of documentation
